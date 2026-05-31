@@ -15,7 +15,7 @@ The dashboard transforms raw transactional data into actionable insights that su
 
 ## Dashboard Preview
 
- ![Image Alt](https://github.com/AnkitRauthan1441/ola-performance-project-sql-excel-powerbi/blob/98fb21bd13b3899e38351061318aa5834ee02704/imagesdashboard-overview.png.png)
+ ![Image Alt]([https://github.com/AnkitRauthan1441/ola-performance-project-sql-excel-powerbi/blob/98fb21bd13b3899e38351061318aa5834ee02704/imagesdashboard-overview.png.png](https://github.com/AnkitRauthan1441/E-Commerce-Performance-Dashboard-Excel-Power-Bi/blob/cea9a1ff6b275f792456d4ecd83183376a57dc42/E-Commerece_powerbi_dashboard.png)
 
 ## Key Insights
 
