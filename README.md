@@ -15,7 +15,7 @@ The dashboard transforms raw transactional data into actionable insights that su
 
 ## Dashboard Preview
 
- ![Image Alt](https://github.com/AnkitRauthan1441/E-Commerce-Performance-Dashboard-Excel-Power-Bi/blob/main/E-Commerece_powerbi_dashboard.png)
+ ![Image Alt](https://github.com/AnkitRauthan1441/E-Commerce-Performance-Dashboard-Excel-Power-Bi/blob/cdd0fc82b9162690502a8fbc8252a04fe7a56ca0/Dashboard_Preview.png)
 ## Key Insights
 
 * Identified top-performing products and categories
