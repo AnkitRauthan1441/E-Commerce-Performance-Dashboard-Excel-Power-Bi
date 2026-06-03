@@ -134,12 +134,12 @@ The dashboard converts transactional data into actionable business insights, all
 
 ## Author & Contact
 
-**Anku**
+**Ankit Rauthan**
 
-Aspiring Data Analyst
+Data Analyst
 
-Skills: SQL • Power BI • Excel • Python
+Skills: Power BI • Excel 
 
-LinkedIn: [Add Your LinkedIn]
+LinkedIn: [(https://www.linkedin.com/in/ankit-rauthan-b81b9139a )]
 
-GitHub: [Add Your GitHub]
+GitHub: [(https://github.com/AnkitRauthan1441)]
