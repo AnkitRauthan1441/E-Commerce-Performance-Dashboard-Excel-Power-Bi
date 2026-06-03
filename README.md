@@ -1,54 +1,73 @@
-# E-Commerce Sales Analytics Dashboard
+# 🛒 E-Commerce Sales Analytics Dashboard
+
+## Table of Contents
+
+* [Brief One-Line Summary](#brief-one-line-summary)
+* [Overview](#overview)
+* [Problem Statement](#problem-statement)
+* [Dataset](#dataset)
+* [Tools and Technologies](#tools-and-technologies)
+* [Methods](#methods)
+* [Key Insights](#key-insights)
+* [Dashboard Output](#dashboard-output)
+* [How to Run This Project](#how-to-run-this-project)
+* [Results and Conclusion](#results-and-conclusion)
+* [Future Work](#future-work)
+* [Author and Contact](#author-and-contact)
+
+---
 
 ## Brief One-Line Summary
 
-Interactive Power BI dashboard designed to analyze sales performance, profitability, customer behavior, and product trends for data-driven business decisions.
+Interactive Power BI dashboard designed to analyze sales performance, profitability, customer behavior, and product trends, enabling data-driven business decisions.
 
 ---
 
 ## Overview
 
-This project focuses on transforming raw e-commerce transaction data into meaningful business insights. The dashboard provides a centralized view of key performance metrics, helping stakeholders monitor sales performance, identify growth opportunities, and evaluate customer purchasing patterns.
+This project transforms raw e-commerce transaction data into actionable business insights using Power BI, Excel, and DAX. The dashboard provides a centralized view of sales, profit, customer activity, and product performance, helping businesses monitor growth and identify opportunities for improvement.
 
 ---
 
 ## Problem Statement
 
-E-commerce businesses generate large volumes of transactional data, making it difficult to quickly identify profitable products, customer trends, and sales opportunities.
+E-commerce businesses generate large volumes of transactional data, making it difficult to quickly identify revenue drivers, profitable products, customer trends, and performance gaps.
 
-The objective of this project was to build an analytical dashboard that enables decision-makers to:
+This project aims to:
 
-* Monitor business performance
-* Track key sales metrics
-* Identify revenue drivers
-* Analyze customer behavior
-* Support strategic planning
+* Monitor sales and profit performance
+* Identify top-performing products and categories
+* Analyze customer purchasing behavior
+* Evaluate regional business performance
+* Support strategic business decisions through analytics
 
 ---
 
 ## Dataset
 
-The dataset contains historical e-commerce transactions including:
+The dataset contains e-commerce transaction records, including:
 
-* Order Information
-* Product Details
-* Sales Revenue
-* Profit Metrics
-* Customer Data
-* Regional Information
-* Order Quantity
-* Purchase Dates
+* Order ID
+* Order Date
+* Customer Information
+* Product Category
+* Product Name
+* Sales Amount
+* Profit
+* Quantity Sold
+* Region
+* Payment Information
 
 ---
 
 ## Tools and Technologies
 
-| Tool        | Purpose                             |
-| ----------- | ----------------------------------- |
-| Power BI    | Dashboard Development               |
-| Power Query | Data Cleaning & Transformation      |
-| DAX         | KPI Calculations & Business Metrics |
-| Excel       | Data Preparation & Validation       |
+| Tool        | Purpose                               |
+| ----------- | ------------------------------------- |
+| Power BI    | Dashboard Development                 |
+| Power Query | Data Cleaning and Transformation      |
+| DAX         | KPI Calculations and Business Metrics |
+| Excel       | Data Validation and Preparation       |
 
 ---
 
@@ -56,39 +75,40 @@ The dataset contains historical e-commerce transactions including:
 
 ### Data Preparation
 
-* Cleaned and standardized transactional records
-* Handled missing values and inconsistencies
-* Created a structured data model
+* Cleaned and transformed transactional data
+* Standardized data formats and categories
+* Built relationships and data models
+* Validated records for reporting accuracy
 
 ### Data Analysis
 
-* Sales Trend Analysis
+* Sales Performance Analysis
 * Profitability Analysis
+* Product Performance Analysis
 * Customer Behavior Analysis
-* Product Performance Evaluation
-* Regional Performance Comparison
+* Regional Performance Analysis
 
 ### Dashboard Development
 
-* KPI Cards
-* Interactive Filters
-* Drill-Through Navigation
-* Dynamic Visualizations
-* Business Performance Tracking
+* KPI Monitoring
+* Interactive Filtering
+* Dynamic Reporting
+* Drill-Through Analysis
+* Performance Tracking
 
 ---
 
 ## Key Insights
 
-* Identified products contributing the highest revenue and profit.
-* Highlighted regions with strong sales performance and growth potential.
-* Revealed customer purchasing patterns and repeat buying behavior.
-* Compared category-level profitability to support product strategy.
-* Enabled quick visibility into business performance through KPI monitoring.
+* Identified products and categories contributing the highest revenue and profit.
+* Analyzed customer purchasing behavior to uncover buying patterns.
+* Evaluated regional performance to highlight growth opportunities.
+* Compared category-level profitability to support product strategy decisions.
+* Provided real-time visibility into business performance through KPI tracking.
 
 ---
 
-## Dashboard / Output
+## Dashboard Output
 
 ### Business KPIs
 
@@ -96,49 +116,54 @@ The dataset contains historical e-commerce transactions including:
 * Total Profit
 * Total Orders
 * Average Order Value
+* Profit Margin
+* Quantity Sold
 
 ### Analysis Views
 
 * Sales Performance
-* Product Analysis
-* Regional Analysis
+* Profit Analysis
+* Product Performance
 * Customer Insights
-* Profitability Tracking
+* Regional Analysis
+
+### Dashboard Preview
 
 ![Image Alt](https://github.com/AnkitRauthan1441/E-Commerce-Performance-Dashboard-Excel-Power-Bi/blob/cdd0fc82b9162690502a8fbc8252a04fe7a56ca0/Dashboard_Preview.png)
+---
 
-## How to Run This Project?
+## How to Run This Project
 
-1. Download the repository.
-2. Open the `.pbix` file in Power BI Desktop.
-3. Refresh the dataset if required.
-4. Interact with filters and visuals to explore insights.
+1. Clone or download this repository.
+2. Open the dataset in Excel for review.
+3. Open the `.pbix` file using Power BI Desktop.
+4. Refresh data if required.
+5. Explore the dashboard using interactive filters and visuals.
 
 ---
 
-## Results & Conclusion
+## Results and Conclusion
 
-The dashboard converts transactional data into actionable business insights, allowing stakeholders to monitor performance, evaluate profitability, and identify opportunities for business growth. It serves as a decision-support tool for sales analysis and operational planning.
+The dashboard provides a consolidated view of business performance by transforming raw transaction data into actionable insights. It enables stakeholders to monitor revenue, evaluate profitability, understand customer behavior, and identify opportunities for business growth and operational improvement.
 
 ---
 
 ## Future Work
 
 * Customer Segmentation Analysis
-* Predictive Sales Forecasting
+* Sales Forecasting
 * Customer Lifetime Value Analysis
 * Inventory Performance Monitoring
 * Automated Data Refresh Pipeline
+* Predictive Revenue Modeling
 
 ---
 
-## Author & Contact
+## Author and Contact
 
 **Ankit Rauthan**
 
 Data Analyst
-
-Skills: Power BI • Excel 
 
 LinkedIn: [(https://www.linkedin.com/in/ankit-rauthan-b81b9139a )]
 
