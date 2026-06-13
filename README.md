@@ -165,6 +165,6 @@ The dashboard provides a consolidated view of business performance by transformi
 
 Data Analyst
 
-LinkedIn: [(https://www.linkedin.com/in/ankit-rauthan-b81b9139a )]
+LinkedIn: [(https://www.linkedin.com/in/ankit-rauthan-1815a5415 )]
 
 GitHub: [(https://github.com/AnkitRauthan1441)]
