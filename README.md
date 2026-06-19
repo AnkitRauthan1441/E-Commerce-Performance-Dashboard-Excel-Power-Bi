@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Sales Analytics Dashboard
+# 🛒 E-Commerce KPI Monitoring & Profitability Analysis
 
 ## Table of Contents
 
