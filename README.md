@@ -1,5 +1,5 @@
 # 🛒 E-Commerce KPI Monitoring & Profitability Analysis
-
+![image alt](https://github.com/AnkitRauthan1441/E-Commerce-Performance-Dashboard-Excel-Power-Bi/blob/2c9f6a6db79698a15a9ee0e93ff5cd5138392e69/E-Commerce%20Analytics%20Dashboard.png)
 ## Table of Contents
 
 * [Brief One-Line Summary](#brief-one-line-summary)
